@@ -9,3 +9,16 @@ C:\Users\matheus.montreal\Documents\curso\CursoCSharp\CursoCSharp\obj\Debug\netc
 C:\Users\matheus.montreal\Documents\curso\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp2.2\CursoCSharp.AssemblyInfo.cs
 C:\Users\matheus.montreal\Documents\curso\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp2.2\CursoCSharp.dll
 C:\Users\matheus.montreal\Documents\curso\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp2.2\CursoCSharp.pdb
+C:\workspace\CursoCSharp\CursoCSharp\bin\Debug\netcoreapp2.2\CursoCSharp.deps.json
+C:\workspace\CursoCSharp\CursoCSharp\bin\Debug\netcoreapp2.2\CursoCSharp.runtimeconfig.json
+C:\workspace\CursoCSharp\CursoCSharp\bin\Debug\netcoreapp2.2\CursoCSharp.runtimeconfig.dev.json
+C:\workspace\CursoCSharp\CursoCSharp\bin\Debug\netcoreapp2.2\CursoCSharp.dll
+C:\workspace\CursoCSharp\CursoCSharp\bin\Debug\netcoreapp2.2\CursoCSharp.pdb
+C:\workspace\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp2.2\CursoCSharp.csproj.AssemblyReference.cache
+C:\workspace\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp2.2\CursoCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp2.2\CursoCSharp.AssemblyInfoInputs.cache
+C:\workspace\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp2.2\CursoCSharp.AssemblyInfo.cs
+C:\workspace\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp2.2\CursoCSharp.csproj.CoreCompileInputs.cache
+C:\workspace\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp2.2\CursoCSharp.dll
+C:\workspace\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp2.2\CursoCSharp.pdb
+C:\workspace\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp2.2\CursoCSharp.genruntimeconfig.cache
