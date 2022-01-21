@@ -3,6 +3,7 @@ using System.Collections.Generic;
 
 using CursoCSharp.Fundamentos;
 using CursoCSharp.EstruturaDeControle;
+using CursoCSharp.ClassesEMetodos;
 
 namespace CursoCSharp {
     class Program {
@@ -39,6 +40,18 @@ namespace CursoCSharp {
                 {"Estrutura FOR EACH- Estruturas de Controle", EstruturaForEach.Executar},
                 {"Usando BREAK - Estruturas de Controle", UsandoBreak.Executar},
                 {"Usando CONTINUE - Estruturas de Controle", UsandoContinue.Executar},
+
+                //Classes e Métodos
+
+                {"Membros - Classes e métodos", Membros.Executar},
+                {"Construtores - Classes e métodos", Construtores.Executar},
+                {"Metodos com retorno - Classes e métodos", MetodosComRetorno.Executar},
+                {"Metodos estáticos - Classes e métodos", MetodosEstaticos.Executar},
+                {"Atributos estáticos - Classes e métodos", AtributosEstaticos.Executar},
+                {"Desafio Atributo - Classes e métodos", DesafioAtributo.Executar},
+                {"Paramêtros Variáveis - Classes e métodos", ParametrosVariaveis.Executar},
+                {"Paramêtros Nomeados - Classes e métodos", ParametrosNomeados.Executar},
+
             });
 
             central.SelecionarEExecutar();
