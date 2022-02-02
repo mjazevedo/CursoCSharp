@@ -11,21 +11,24 @@ namespace CursoCSharp.Colecoes
         {
             var fila = new Queue<string>();
 
+            // Enfileirar
             fila.Enqueue("Marcos");
             fila.Enqueue("Marcelo");
             fila.Enqueue("Mariano");
 
-            Console.WriteLine(fila.Peek());
+            Console.WriteLine(fila.Peek()); // Pegar o elemento da lista sem remover
+            Console.WriteLine(fila.Count); 
+
+            Console.WriteLine(fila.Dequeue()); // Desenfileirar
             Console.WriteLine(fila.Count);
 
-            Console.WriteLine(fila.Dequeue());
-            Console.WriteLine(fila.Count);
-
+            // Passar por cada dado da fila
             foreach (var pessoa in fila)
             {
                 Console.WriteLine(pessoa);
             }
 
+            // Fila heterogênea
             var salada = new Queue();
             salada.Enqueue(3);
             salada.Enqueue("Item");
