@@ -16,7 +16,6 @@ namespace CursoCSharp.ClassesEMetodos
             Console.WriteLine(Somar(50));
             Console.WriteLine(Somar());
             Console.WriteLine(Somar(b: 7)); // Paramêtro Nomeado
-
         }
     }
 }
